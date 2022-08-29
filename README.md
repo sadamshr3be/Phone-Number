@@ -3,15 +3,20 @@ Python Program To Find Name And Multiple Upi Handle Of A Person By Giving Phone 
 #اوامر تثبيت
 
 pkg upgrade
+
 pkg install python
+
 pkg install git
+
 pip install requests
 
-git clone
 
+git clone
 https://github.com/sadamshr3be/Phone-Number
 
+
 cd Phone-Number
+
 
 python number.py
 
